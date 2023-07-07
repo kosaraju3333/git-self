@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## this is example file for how to do calculator operations
+
 a=$1
 b=$2
 
