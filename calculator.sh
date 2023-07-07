@@ -10,8 +10,14 @@ add=$(($a + $b))
 echo "ADD is: $add" 
 echo "cherry-pick"
 
+
 # Multiplication
 mul=$(($a * $b))
 echo "MUL is: $mul"
 echo "rebase"
+
+# Subtraction
+sub=$(($a - $b))
+echo "SUB is : $sub"
+echo "merge"
 
